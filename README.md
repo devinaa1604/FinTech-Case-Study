@@ -1,5 +1,4 @@
-# FinTech-Case-Study
-# Plaid
+# PLAID
 
 ## Overview and Origin
 
