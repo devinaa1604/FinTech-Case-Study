@@ -2,8 +2,7 @@
 # CREDIT KARMA
 
 ## Overview and Origin
-
-* Name of company
+Credit Karma was co-founded by CEO Kenneth Lin, chief revenue officer Nichole Mustard and CTO Ryan Graciano in 2007 and ever since then it has grown unprecendedly. 
 
 * When was the company incorporated?
 
@@ -13,6 +12,11 @@
 
 * How is the company funded? How much funding have they received?
 
+Offers its 85 million-plus “members” a growing suite of free services, including credit scores, tax-prep software, help fixing credit-report errors and alerts of new accounts opened in a user’s name. Credit Karma earns referral fees when users bite on the personalized offers for credit cards and loans it shows them.
+
+Credit Karma has seen enormous growth since its founding in 2007 - and is now worth some $4 billion. The fintech company, founded by Kenneth Lin, Nichole Mustard and Ryan Graciano, provides free credit scores and credit recommendations for consumers.
+
+Unlike other sites, Credit Karma does not require users to register a credit card. As part of their services, Credit Karma also offers educational resources for their users - of which there are reportedly 85 million. 
 
 ## Business Activities:
 
