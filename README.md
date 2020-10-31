@@ -20,3 +20,17 @@ Unlike RobinHood’s more established competitors like Schwab, E-Trade or Fideli
 
 ### Technologies
 
+## Landscape:
+
+## Results:
+
+### Impact
+One of the most famous application of internet in the 90s was on-line trading and RobinHood has single-handedly displayed dot-com disruption. Even though the other, more established, online-trading companies are around, RobinHood has made a place for itself and has proved that it is here to stay. 
+
+It displays as the perfect example for how the usual commission-based competitors like Schwab and Fidelity can be disrupted. Their almost no-fee-structure also demonstrates the efficiency as well as cost saving techniques that the internet or the FinTech environment provides. 
+
+
+### Metrics
+
+### Relative Performance
+Co-founder Baiju Bhatt’s vision was that “They’re going to be the Amazon of financial services” and indeed their growth follows the pattern. RobinHood’s growth has been enormous in just a short period of time. Its funding has been increases multifold but also it has more customers than much more established competitors such as E-Trade Financial which has been around since 1982.
