@@ -1,4 +1,4 @@
-![](https://github.com/devinaa1604/FinTech-Case-Study/blob/main/RobinhoodLogoDec2019.jpg)
+![](https://github.com/devinaa1604/FinTech-Case-Study/blob/main/Screen%20Shot%202020-10-31%20at%204.14.14%20PM.png)
 # ROBINHOOD
 
 ## ABOUT
