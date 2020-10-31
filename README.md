@@ -1,5 +1,6 @@
+![](https://github.com/devinaa1604/FinTech-Case-Study/blob/main/RobinhoodLogoDec2019.jpg)
 # ROBINHOOD
-
+![](https://github.com/devinaa1604/FinTech-Case-Study/blob/main/Robinhood.png)
 ## ABOUT
 
 ### Overview
