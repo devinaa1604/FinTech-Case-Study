@@ -24,6 +24,11 @@ Unlike RobinHood’s more established competitors like Schwab, E-Trade or Fideli
 
 
 ## LANDSCAPE:
+RobinHood is part of the robo-advising domain of FinTech. Robo-advising uses mathematical algorithms to provide financial advising and at a lower cost as there is no human interaction. These algorithms use the information entered by the individuals and process it to give the best option for them. Th industry is growth at a rapid rate. By 2020, $3.7 trillion in assets are expected to be managed by robo-advisors and it is only expected to grow almost by 5 times to reach $16 trillion by 2025, based on reports.  
+
+Robo-advising focuses on especially targeting millennials, who are tech savvy, and new to investment, get financial advising in low fees and thus getting them introduced to investment. They aim to maintain millennial’s trust in technology and computers by removing the distrust on the banking industry that could have developed over years due to major financial downturns. However, data shows that most of the millennials rely on a face-to-face advisor and cannot solely rely on technology. Even though robo-advising is still in its nascent stage, they are still maximizing their market share by providing low cost investment advising.  However, soon they will need more individualized, traditional, blended provision of advisory as people start realizing the cost-benefit of using robo-advisory. They are expected to innovate more so that each need can be met not in just a robotic manner but keeping the individual needs in mind. 
+
+RobinHood has a number of competitors in their domain. Companies like Schwab and Fidelity are increasingly using these algorithms but also providing human advising with is an added benefit to them. In terms of cryptocurrency, CoinBase is one of the more established players from where RobinHood can face direct competition. 
 
 ## RESULTS:
 
