@@ -21,7 +21,7 @@ RobinHood’s aim is to make it easy for a new investor to understand the regula
 Unlike RobinHood’s more established competitors like Schwab, E-Trade or Fidelity, it attracts its customers via easy to use mobile application and no minimum deposit. This makes their target audience to be Millennials, which have been the demographic which is not targeted by the usual investing companies. Even the data shows, 80% of RobinHood’s customers are Millennials with an average age of 26. 
 
 ### Technologies
-
+RobinHood uses Artificial Intelligence on HTML5, Python, GoogleAnalytics. For their application development, they use, AdobeTypekit and Squarespace. 
 
 ## LANDSCAPE:
 RobinHood is part of the robo-advising domain of FinTech. Robo-advising uses mathematical algorithms to provide financial advising and at a lower cost as there is no human interaction. These algorithms use the information entered by the individuals and process it to give the best option for them. Th industry is growth at a rapid rate. By 2020, $3.7 trillion in assets are expected to be managed by robo-advisors and it is only expected to grow almost by 5 times to reach $16 trillion by 2025, based on reports.  
@@ -37,12 +37,29 @@ One of the most famous application of internet in the 90s was on-line trading an
 
 It displays as the perfect example for how the usual commission-based competitors like Schwab and Fidelity can be disrupted. Their almost no-fee-structure also demonstrates the efficiency as well as cost saving techniques that the internet or the FinTech environment provides. 
 
-
-### Metrics
-
-### Relative Performance
+### Performance and Relative Performance
 Co-founder Baiju Bhatt’s vision was that “They’re going to be the Amazon of financial services” and indeed their growth follows the pattern. RobinHood’s growth has been enormous in just a short period of time. Its funding has been increases multifold but also it has more customers than much more established competitors such as E-Trade Financial which has been around since 1982.
 
 ## RECOMMENDATIONS
+RobinHood provides exceptionally low-priced financial services which is growing at a very fast speed. This means there is a lot for them to watch for. Moreover, as before, RobinHood is not the only free service provisors in the market anymore. A number of power-outages which have led to a number of lawsuits against them. Additionally, there have always questions about their over simplicity as well as low possibility of personalization. The mobile application tells very little about the person’s investments and the trading options face similar issues. 
+
+Therefore, the obvious suggestion will be to:
+1.	Improve the application: make it more interactive and less prone to the outages. 
+2.	To expand in allowing the customers to have more personalized, human-interactive feature for individualized advising. 
+The first suggestion is what will ensure the short-run growth for the company where is the second suggestion is to ensure the long-run market share for the company. They must improve their current provisions and invest in improving and expanding the services for future so that they remain the big name in their domain. 
+
+Based on the current markets and trends, even the millennials are looking for a more personalized advisory and thus including this before time, would benefit the company. It would be beneficial for the company to use more detailed AI as well as a better design technology for the application. This would allow the customers to make it more customized for their needs, in terms of the application and actual trading options. 
 
 ## CITATIONS
+1. [](https://builtin.com/fintech/fintech-companies-startups-to-know)
+2. [](https://www.thestreet.com/technology/fintech-companies-14891479)
+3. [](https://www.forbes.com/sites/jeffkauflin/2019/02/04/the-10-biggest-fintech-companies-in-america-2019/?sh=22ed6d9a32b9)
+4. [](https://fortune.com/2020/08/17/robinhood-ipo-speculation-funding-round-series-g-predictions/)
+5. [](https://www.forbes.com/fintech/2019/#4dd3c242b4c6)
+6. [Market Trends](https://online.wharton.upenn.edu/uncategorized/5-fintech-trends-to-watch-in-2019/)
+7. [](https://fintechnews.ch/roboadvisor_onlinewealth/robo-advisors-and-other-fintech-trends-for-2020/32862/)
+8. [](https://www.forbes.com/sites/chancebarnett/2015/09/01/fintech-trends-wealth-management-and-the-rise-of-robo-advisors/?sh=681c05d6b0d3)
+9. [Wikipedia](https://en.wikipedia.org/wiki/Robinhood_(company))
+10. [Company Website](https://robinhood.com/us/en/about/)
+11. [](https://www.investopedia.com/robinhood-review-4587919)
+12. [](https://stack.g2.com/company/Robinhood?utm_campaign=Robinhood&utm_medium=techstack&utm_so)
